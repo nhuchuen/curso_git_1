@@ -1,3 +1,7 @@
 Testando atualização do clone
 
+<<<<<<< HEAD
 Alteração no arquivo b.txt do segundo_branch
+=======
+Atualização b.txt 
+>>>>>>> segundo_branch
